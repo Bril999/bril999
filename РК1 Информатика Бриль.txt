@@ -1,0 +1,61 @@
+Бриль Дмитрий. ИУ4-13. Вариант-3.
+--------------------------------------------------------------------------------------------------------
+Номер 2:
+html:
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "utf-8">
+	</head>
+	<body>
+	<table>
+	<tr>
+		<td style="background: red; color:blue">1</td>
+		<td style="background: green; color:white">2</td>
+		<td style="background: yellow; color:orange">3</td>
+	<tr>
+		<td style="background: brown; color:white">4</td>
+		<td style="background: coral; color:cyan">5</td>
+		<td style="background: lightgreen; color:lightblue">6</td>
+	<tr>
+		<td style="background: lightcoral; color:black">7</td>
+		<td style="background: white; color:yellow">8</td>
+		<td style="background: orange; color:green">9</td>
+	</table>
+	</body>
+</html>
+
+---------------------------------------------------------------------------------------------
+
+Номер 3:
+html:
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "utf-8">
+	</head>
+	<body>
+	<ol style= "color: red; font-size:20px">
+		<ul>111<ul>
+		<ul>222<ul>
+		<ul>333<ul>
+	<ol style= "color: yellow; font-size:30px">
+		<ul>444<ul>
+		<ul>555<ul>
+		<ul>666<ul>
+	</body>
+</html>
+-----------------------------------------------------------------------------------------------
+
+Номер 1:
+html:
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "utf-8">
+	</head>
+	<body>
+		<p style= "color: blue; background: cyan">blob:https://web.telegram.org/d0864ae6-14c0-43ad-8707-d6480074aae8</p>
+		<a style= "color: red; background:yellow" href="blob:https://web.telegram.org/d0864ae6-14c0-43ad-8707-d6480074aae8"> Menu </a>
+	</body>
+</html>
